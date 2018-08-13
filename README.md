@@ -1,2 +1,0 @@
-# MuleSoft
-Assignments
